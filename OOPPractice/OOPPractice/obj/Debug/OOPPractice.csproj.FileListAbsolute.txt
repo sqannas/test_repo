@@ -1,3 +1,8 @@
 Y:\Learn\OOPPractice\OOPPractice\bin\Debug\OOPPractice.exe.config
 \\WDMYCLOUD\Public\Learn\OOPPractice\OOPPractice\bin\Debug\OOPPractice.exe.config
 \\WDMYCLOUD\Public\Learn\Sources\test_repo\OOPPractice\OOPPractice\bin\Debug\OOPPractice.exe.config
+\\WDMYCLOUD\Public\Learn\Sources\test_repo\OOPPractice\OOPPractice\bin\Debug\OOPPractice.exe
+\\WDMYCLOUD\Public\Learn\Sources\test_repo\OOPPractice\OOPPractice\bin\Debug\OOPPractice.pdb
+\\WDMYCLOUD\Public\Learn\Sources\test_repo\OOPPractice\OOPPractice\obj\Debug\OOPPractice.csprojResolveAssemblyReference.cache
+\\WDMYCLOUD\Public\Learn\Sources\test_repo\OOPPractice\OOPPractice\obj\Debug\OOPPractice.exe
+\\WDMYCLOUD\Public\Learn\Sources\test_repo\OOPPractice\OOPPractice\obj\Debug\OOPPractice.pdb
