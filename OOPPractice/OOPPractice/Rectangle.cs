@@ -10,7 +10,11 @@ namespace OOPPractice
     {
         public int Height { get; }
         public int Width { get; }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="height"></param>
+        /// <param name="width"></param>
         public Rectangle(int height, int width)
         {
             if (height <= 0) throw new ArgumentException("height");
