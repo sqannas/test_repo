@@ -1,0 +1,2 @@
+Y:\Learn\OOPPractice\OOPPractice\bin\Debug\OOPPractice.exe.config
+\\WDMYCLOUD\Public\Learn\OOPPractice\OOPPractice\bin\Debug\OOPPractice.exe.config
