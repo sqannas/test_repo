@@ -35,7 +35,10 @@ namespace OOPPractice
         //    Console.WriteLine("Square Constructor Called");
         //}
 
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="size"></param>
         public Rectangle(int size) : this(size, size)
         {
             Console.WriteLine("Square Constructor Called");
